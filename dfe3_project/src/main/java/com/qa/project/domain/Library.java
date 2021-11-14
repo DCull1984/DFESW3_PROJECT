@@ -7,7 +7,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "Library")
+@Table(name = "library")
 
 public class Library {
 	
