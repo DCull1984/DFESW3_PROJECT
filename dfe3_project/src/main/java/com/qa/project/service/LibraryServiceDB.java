@@ -4,9 +4,8 @@ import java.util.List;
 
 import javax.persistence.EntityNotFoundException;
 
+import com.qa.project.domain.Library;
 import com.qa.project.repository.LibraryRepository;
-
-import domain.Library;
 
 public class LibraryServiceDB implements LibraryService {
 

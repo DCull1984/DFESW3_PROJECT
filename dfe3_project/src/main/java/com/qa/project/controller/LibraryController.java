@@ -14,9 +14,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.qa.project.domain.Library;
 import com.qa.project.service.LibraryService;
-
-import domain.Library;
 
 @RestController
 @RequestMapping("/library")

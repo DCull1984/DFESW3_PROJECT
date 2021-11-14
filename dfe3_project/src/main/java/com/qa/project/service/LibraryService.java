@@ -2,7 +2,7 @@ package com.qa.project.service;
 
 import java.util.List;
 
-import domain.Library;
+import com.qa.project.domain.Library;
 
 public interface LibraryService {
 
